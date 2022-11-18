@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "email": "sawa@tuit.com",
+      "username": "samar_st",
+      "password": "artel8811",
+      "image": "play tennisss",
+      "first_name": "Samar",
+      "last_name": "Sattorov",
+      "phone_number": "8811",
+      "bio": "programmer in uzbekistan",
+      "birthdate": "2003-04-27",
+      "id": 1
+    },
+    {
+      "email": "hsh369@gmail.com",
+      "username": "shaxa",
+      "password": "shsh7878",
+      "image": "free fire",
+      "first_name": "Shakhboz",
+      "last_name": "Khasanov",
+      "phone_number": "1948",
+      "bio": "bot noob pro max",
+      "birthdate": "2022-12-03",
+      "id": 2
+    }
+  ],
+  "blog": [
+    {
+      "title": "English",
+      "content": "b1 level off idp",
+      "answer": "C2",
+      "question": "What's your level?",
+      "id": 1
+    },
+    {
+      "title": "asasa",
+      "content": "sasas",
+      "answer": "sas",
+      "question": "asasa",
+      "id": 2
+    }
+  ]
+}
